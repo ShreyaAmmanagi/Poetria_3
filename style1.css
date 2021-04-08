@@ -1,0 +1,29 @@
+.grid{
+    background-color:rgb(97, 247, 77);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   border: double;
+   border-color: #01f0bc;
+   border-width: 7px;
+}
+.gridA{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.img{
+    border: dotted;
+    border-width: 13px;
+    border-color: #5f21d1;
+}
+.gridC{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.img1{
+    border: groove;
+    border-width: 13px;
+    border-color: #aaaa12;
+}
